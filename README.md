@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="87007820.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="marvel" src="https://img.shields.io/badge/marvel-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Jokerbot" src="https://img.shields.io/badge/marvel-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Tony-alex1"><img title="Author" src="https://img.shields.io/badge/Author-tony-alex1/marvel?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Tony-alex1"><img title="Author" src="https://img.shields.io/badge/Author-J0kerser/marvel?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/tony-alex1">Tony-alex1</a> to mak
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Tony-alex1/marvel">
-    <img src="https://img.shields.io/github/repo-size/Tony-alex1/marvel?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/J0kerser/Jokerbot">
+    <img src="https://img.shields.io/github/repo-size/J0kerser/Jokerbot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Tony-alex1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tony-alex1?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tony-alex1/marvel/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tony-alex1/marvel?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tony-alex1/marvel/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tony-alex1/marvel?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tony-alex1/marvel/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Tony-alex1/marvel?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/J0kerser/followers"><img title="Followers" src="https://img.shields.io/github/followers/J0kerser?color=blue&style=flat-square"></a>
+<a href="https://github.com/J0kerser/Jokerbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tony-/marvel?color=blue&style=flat-square"></a>
+<a href="https://github.com/J0kerser/Jokerbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tony-alex1/marvel?color=blue&style=flat-square"></a>
+<a href="https://github.com/J0kerser/Jokerbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/J0kerser/Jokerbot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -33,10 +33,10 @@ Project created by <a href="https://github.com/tony-alex1">Tony-alex1</a> to mak
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LGzd6GnuFjMFOJI6LC9Iic)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=J0kerser&repo=Jokerbot&theme=nightowl)](https://github.com/J0kerser/Jokerbot)
   </div>
     
 ## Setup
@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tony-alex1/marvel)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/J0kerser/Jokerbot)
      </div>
 <br>
 <br >
@@ -61,7 +61,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Tony-alex1/marvel
+$ git clone https://github.com/J0kerser/Jokerbot
 $ cd marvel
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -71,7 +71,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Tony-alex1/marvel
+$ git clone https://github.com/J0kerser/Jokerbot
 $ cd marvel
 $ chmod +x *
 $ npm i
@@ -92,9 +92,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Tony-alex1](https://github.com/Tony-alex1.png?size=100)](https://github.com/Tony-alex1) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![J0kerser](https://github.com/J0kerser/Jokerbot.png?size=100)](https://github.com/J0kerser) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Tony-alex1](https://github.com/Tony-alex1)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[J0kerser](https://github.com/J0kerser)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
