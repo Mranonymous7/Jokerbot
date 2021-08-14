@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     
     
    
-  r_text[0] = "https://tinyurl.com/ykxwd25q";
+  r_text[0] = "https://i.imgur.com/s4drNeU.jpeg";
     
     
     var i = Math.floor(1*Math.random())
