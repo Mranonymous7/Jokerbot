@@ -2,7 +2,7 @@
 <div align="center">
   <img border-radius: 15px src="87007820.jpeg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Jokerbot" src="https://img.shields.io/badge/Jokerbot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="anony bot" src="https://img.shields.io/badge/Jokerbot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/J0kerser"><img title="Author" src="https://img.shields.io/badge/Author-J0kerser/Jokerbot?color=blue&style=for-the-badge&logo=whatsapp"></a>
